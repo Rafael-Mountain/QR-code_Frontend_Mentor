@@ -1,0 +1,46 @@
+html{
+    background-color: hsl(212, 46%, 89%) ;
+}
+
+.conteudo-principal{
+    width: 320px;
+    height: 500px;
+    margin: auto ;
+    position: absolute;
+    left: 0cm;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 15px hsl(220, 15%, 55%);
+    
+}
+
+.imagem img{
+    width: 288px;
+    height: 288px;
+    margin: 14px auto;
+    display:block;
+    border-radius: 15px;
+    
+}
+
+.texto{
+    margin: 0px 30px;
+    text-align: center;
+   
+}
+
+.texto h1{
+    margin: 20px 0px ;
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.texto p{
+    color: hsl(220, 15%, 55%);
+    font-weight: 300;
+
+}
